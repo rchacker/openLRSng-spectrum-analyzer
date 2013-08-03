@@ -1,3 +1,7 @@
+
+RCHacker working copy only.
+you are better off here:  https://github.com/cTn-dev/openLRSng-spectrum-analyzer
+
 openLRSng Spectrum Analyzer
 =================================================
 This project was designed to work with with openLRSng code @ https://github.com/kh4/openLRSng

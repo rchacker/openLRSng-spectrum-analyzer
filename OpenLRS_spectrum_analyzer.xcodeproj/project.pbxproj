@@ -1,0 +1,86 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		EAF61A9617ACA491002A51AA /* main.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = main.html; sourceTree = "<group>"; };
+		EAF61A9717ACA4AB002A51AA /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		EAF61A9817ACA4AB002A51AA /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
+		EAF61A9917ACA4AB002A51AA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		EAF61A9A17ACA4B2002A51AA /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; path = js; sourceTree = "<group>"; };
+		EAF61A9B17ACA4CA002A51AA /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
+		EAF61A9C17ACA4D4002A51AA /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = background.js; sourceTree = "<group>"; };
+		EAF61A9D17ACA4D4002A51AA /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; path = css; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		EAAFADA517ACA4520037A26C = {
+			isa = PBXGroup;
+			children = (
+				EAF61A9617ACA491002A51AA /* main.html */,
+				EAF61A9717ACA4AB002A51AA /* LICENSE */,
+				EAF61A9817ACA4AB002A51AA /* manifest.json */,
+				EAF61A9C17ACA4D4002A51AA /* background.js */,
+				EAF61A9D17ACA4D4002A51AA /* css */,
+				EAF61A9B17ACA4CA002A51AA /* images */,
+				EAF61A9917ACA4AB002A51AA /* README.md */,
+				EAF61A9A17ACA4B2002A51AA /* js */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		EAAFADA617ACA4520037A26C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+			};
+			buildConfigurationList = EAAFADA917ACA4520037A26C /* Build configuration list for PBXProject "OpenLRS_spectrum_analyzer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EAAFADA517ACA4520037A26C;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		EAAFADAA17ACA4520037A26C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		EAAFADAB17ACA4520037A26C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EAAFADA917ACA4520037A26C /* Build configuration list for PBXProject "OpenLRS_spectrum_analyzer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EAAFADAA17ACA4520037A26C /* Debug */,
+				EAAFADAB17ACA4520037A26C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EAAFADA617ACA4520037A26C /* Project object */;
+}
